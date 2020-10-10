@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+# 浙江大学超算队章程
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 第一章 总则
 
-## Commands
+ - **第一条** 浙江大学超级计算机竞赛队（简称超算队）是由浙江大学计算机学院于2009年成立的学生超算竞赛队伍。通过参与国际、国内等各级别高性能计算大赛，提高学生程序设计、工程优化能力，强化学生创新实践素质，提升人才培养质量。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+ - **第二条** 目标
 
-## Project layout
+    1. 超算队总目标为在国际大学生超级计算机竞赛（ASC/SC/ISC）中夺冠；
+    2. 超算队阶段性目标为在国际大学生超级计算机竞赛（ASC/SC/ISC）、各大高性能优化大赛（CPC/PAC/IPCC）中获得金、银、铜等奖励。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 第二章 队员选拔
+
+ - **第一条** 超算队队员选拔对象原则上要求为浙江大学在读本科生。
+
+ - **第二条** 超算队通过面试考核的形式选拔优秀学生进入预备队，通过训练、竞赛成绩和项目考核的形式选拔优秀队员进入正是队伍，参加国家级、国际级的竞赛。
+
+## 第三章 训练管理
+
+
+## 第四章 项目管理
+
+## 第五章 奖惩管理
+
+ - **第一条** 奖励方案
+
+ - **第二条** 惩罚方案
+
+    集训队队员要兼顾日常训练和专业课程学习，不能以日常训练为借口旷课、挂科等。集训通常安排在周末和寒暑假，一般不与课程冲突。如果遇到外出参赛和参加集训的时间与上课或者考试时间冲突，必须向相关任课教师说明情况，并向学院申请批准请假或者考试缓考。旷课、挂科情况严重的队员，将视情况做出相应惩罚处理。
+
+## 第六章 年度工作计划
