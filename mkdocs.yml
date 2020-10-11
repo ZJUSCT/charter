@@ -3,7 +3,7 @@ site_description: '浙江大学超算队章程'
 site_author: 'ZJUSCT'
 docs_dir: docs/
 nav:
-    - 超算队总则: main.md
+    - 超算队总则: index.md
     - 实验室使用守则: lab.md
 theme:
   name: 'material'
