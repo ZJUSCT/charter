@@ -2,9 +2,10 @@ site_name: ZJUSCT Charter
 site_description: '浙江大学超算队章程'
 site_author: 'ZJUSCT'
 docs_dir: docs/
-repo_name: 'ZJUSCT/Charter'
-repo_url: 'https://github.com/ZJUSCT/Charter/edit/main/mkdocs.yml'
 nav:
-    - Home: index.md
+    - 超算队总则: main.md
+    - 实验室使用守则: lab.md
 theme:
   name: 'material'
+  palette:
+    primary: black
